@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Un-Powered By Chrome</string>
+    <string name="xposed_description">Replaces “Powered by Chrome” screens (Activities) by opening links directly in your default browser or their relevant apps.</string>
+</resources>
